@@ -8,7 +8,7 @@
 
 
 
-![My GitHub Trpophies](https://github-profile-trophy.vercel.app/?username=Abhishe1980&theme=00000000)
+![My GitHub Trpophies](https://github-profile-trophy.vercel.app/?username=Abhishe1980&theme=onedark)
 
 
 
