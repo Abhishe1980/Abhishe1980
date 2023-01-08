@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on SpringBoot
 - 📫 How to reach me :email:abhishektiwari.nrp@gmail.com
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishe1980&darrk&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishe1980&darrk&show_icons=true&theme=dracula)
 
 
 
