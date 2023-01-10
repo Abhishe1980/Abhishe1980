@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Abhishe1980
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java/ReactJS
+- 🌱 I’m currently learning JAVA
+- 💬 Ask me about JAVA / C / SQL / HTML / CSS
 - 💞️ I’m looking to collaborate on SpringBoot
 - 📫 How to reach me :email:abhishektiwari.nrp@gmail.com
 
