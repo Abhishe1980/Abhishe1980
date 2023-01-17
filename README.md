@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Abhishe1980
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning JAVA
 - 💬 Ask me about JAVA /JAVASCRIPT/MySQL / HTML / CSS/REACTJS/C
-- 💞️ I’m looking to collaborate on SpringBoot
+- 💞️ I’m looking to collaborate on SpringBoot.
 - 📫 How to reach me :email:abhishektiwari.nrp@gmail.com
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishe1980&darrk&show_icons=true&theme=dracula)
